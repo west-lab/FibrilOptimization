@@ -1,7 +1,6 @@
 '''
 Created on Jan 6, 2020
 
-@author: juliaziaee
 '''
 
 import csv
